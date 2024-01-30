@@ -8,8 +8,8 @@
 
 ## 🛠️ Technology Toolbox
 
-- **Languages:** JavaScript, TypeScript, Swift, Objective-C, Java, Kotlin, C#, Ruby, SQL, PL/SQL, pg/SQL, HTML, CSS, PHP
-- **Frameworks:** Next.js, Ruby on Rails
+- **Languages:** JavaScript, TypeScript, Swift, Objective-C, Kotlin, Java, SQL, PL/SQL, pg/SQL, HTML, CSS, PHP
+- **Frameworks:** Next.js, Express, React, SwiftUI, UIKit, Jetpack Compose, React Native, WordPress
 - **Tools:** Visual Studio Code, Xcode, Android Studio, Git, DBeaver, SSH, FileZilla, Figma, Photoshop, Illustrator, Postman
 - **Operating Systems:** Linux, macOS
 
