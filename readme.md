@@ -2,7 +2,7 @@
 
 ## 💼 Profile
 
-- **Experience:** Over 14 years, specializing in JavaScript, TypeScript, Swift, and more.
+- **Experience:** Over 10 years, specializing in JavaScript, TypeScript, Swift, and more.
 - **Seniority Level:** Senior
 - **Education:** Bachelor of Software Engineering at Estácio de Sá, Brazil
 
