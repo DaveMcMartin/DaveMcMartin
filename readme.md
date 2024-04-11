@@ -3,12 +3,11 @@
 ## 💼 Profile
 
 - **Experience:** Over 10 years, specializing in JavaScript, TypeScript, Swift, and more.
-- **Seniority Level:** Senior
 - **Education:** Bachelor of Software Engineering at Estácio de Sá, Brazil
 
 ## 🛠️ Technology Toolbox
 
-- **Languages:** JavaScript, TypeScript, Swift, Objective-C, Kotlin, Java, SQL, PL/SQL, pg/SQL, HTML, CSS, PHP
+- **Languages:** JavaScript, TypeScript, Swift, Objective-C, Kotlin, Java, SQL, PL/SQL, pg/SQL, HTML, CSS, PHP, C#
 - **Frameworks:** Next.js, Express, React, SwiftUI, UIKit, Jetpack Compose, React Native, WordPress
 - **Tools:** Visual Studio Code, Xcode, Android Studio, Git, DBeaver, SSH, FileZilla, Figma, Photoshop, Illustrator, Postman
 - **Operating Systems:** Linux, macOS
@@ -29,7 +28,3 @@
 - [![Email](https://img.shields.io/badge/Email-0072b1?style=flat-square&logo=gmail&logoColor=white)](mailto:contato@davidmartins.net)
 - [![Linkedin](https://img.shields.io/badge/Linkedin-0072b1?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-m-dos-anjos/)
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=DaveMcMartin&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DaveMcMartin&layout=compact&langs_count=16&theme=dracula)
