@@ -1,4 +1,6 @@
-# 👋 Hello, World! I'm David Martins, a Software Engineer based in Brazil 🇧🇷
+# 👋 Hello, World!
+
+I'm David Martins, a Software Engineer based in Brazil.🇷
 
 ## 💼 Profile
 
