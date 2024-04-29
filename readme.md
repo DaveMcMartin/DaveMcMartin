@@ -4,7 +4,7 @@ I'm David Martins, a Software Engineer based in Brazil.🇷
 
 ## 💼 Profile
 
-- **Experience:** Over 10 years, specializing in JavaScript, TypeScript, Swift, and more.
+- **Experience:** Over 10 years, specializing in Web and Mobile development
 - **Education:** Bachelor of Software Engineering at Estácio de Sá, Brazil
 
 ## 🛠️ Technology Toolbox
@@ -29,4 +29,3 @@ I'm David Martins, a Software Engineer based in Brazil.🇷
 - [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/david0_0martins)
 - [![Email](https://img.shields.io/badge/Email-0072b1?style=flat-square&logo=gmail&logoColor=white)](mailto:contato@davidmartins.net)
 - [![Linkedin](https://img.shields.io/badge/Linkedin-0072b1?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-m-dos-anjos/)
-
